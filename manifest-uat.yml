@@ -2,5 +2,5 @@
 applications:
 - name: brian-spring-music-uat
   memory: 1G
-  buildpack: java_buildpack
+  buildpack: java_buildpack_offline
   host: bb-test-spring-music
