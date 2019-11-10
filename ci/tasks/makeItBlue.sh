@@ -9,7 +9,7 @@ cd repo
 cd bin
 
 #add git config so it stops complaining about not having user info
-git config --global user.email "bbyers@pivotal.io"
+git config --global user.email "koundinya@pivotal.io"
 git config --global user.name "Concourse"
 git config --global push.default matching
 
