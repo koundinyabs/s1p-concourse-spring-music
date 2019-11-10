@@ -1,6 +1,6 @@
 ---
 applications:
-- name: spring-music-dev
+- name: ks-spring-music-dev
   memory: 1G
   host: spring-music-dev
   buildpack: java_buildpack_offline
